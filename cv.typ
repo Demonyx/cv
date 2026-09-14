@@ -15,19 +15,17 @@
 
 #cv-with-side[
   = About Me
-  Just someone learning Typst.
+  I am a South African who has been living in the Netherlands for 10 years. I have recently finished my degree in computer science and I am looking for temporary work in the arts and culture field to improve my Dutch speaking skills and broaden my 
 
   = Contact
   #contact-info()
 
-  = Skills
-  Programming
 
   = Languages
   - English (C2)
   - Dutch (B1)
 
-  #v(1fr)
+  #v(10fr)
   #social-links()
 ][
   = Education
